@@ -1,0 +1,23 @@
+.content{
+    background-color: white;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.heading{
+    color: black;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+.score{
+    color: rgb(228, 20, 20);
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.text{
+    color: grey;
+    font-family: "Roboto";
+    font-size: 15px;
+}

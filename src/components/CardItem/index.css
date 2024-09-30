@@ -7,7 +7,7 @@
 }
 
 .heading{
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Roboto";
     font-size: 25px;
 }
@@ -19,5 +19,5 @@
 .text{
     color: grey;
     font-family: "Roboto";
-    font-size: 15px;
+    font-size: 9px;
 }

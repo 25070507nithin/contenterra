@@ -1,6 +1,10 @@
+
+
 .content-container{
-    background-color: rgb(245, 235, 235);
+    background-color: rgb(145, 142, 142);
     list-style-type: none;
     padding-top: 60px;
     padding-bottom: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
 }

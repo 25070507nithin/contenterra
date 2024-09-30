@@ -14,8 +14,8 @@ const CardItem = (props)=>{
     return(
         <li className="content">
             <h1 className="heading">{title}</h1>
-            <p className="score">{score}</p>
-            {decodeText}
+            <p className="score">score: {score}</p>
+            <div className="text" dangerouslySetInnerHTML={{ __html: decodeText }} />
             <img src={url} alt="react" className="image"/>
         </li>
     )
